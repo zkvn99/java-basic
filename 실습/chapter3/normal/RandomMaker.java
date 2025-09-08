@@ -1,4 +1,4 @@
-package com.minuk.level03.normal;
+package com.minuk.chapter3.normal;
 
 import java.util.Random;
 

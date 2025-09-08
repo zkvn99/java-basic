@@ -1,4 +1,4 @@
-package com.minuk.level01.basic;
+package com.minuk.chapter1.basic;
 
 public class Application1 {
 
