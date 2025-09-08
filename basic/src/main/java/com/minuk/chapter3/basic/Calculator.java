@@ -1,4 +1,4 @@
-package com.minuk.level03.basic;
+package com.minuk.chapter3.basic;
 
 public class Calculator {
 
