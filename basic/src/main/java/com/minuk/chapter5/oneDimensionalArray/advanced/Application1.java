@@ -13,6 +13,7 @@ public class Application1 {
      * */
 
     int[] numbers = new int[6];
+    Arrays.fill(numbers, -1);
 
     for (int i = 0; i < numbers.length; i++) {
       while (true) {
